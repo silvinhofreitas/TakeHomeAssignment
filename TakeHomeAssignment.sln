@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeAssignment", "TakeHomeAssignment\TakeHomeAssignment.csproj", "{ADF5456D-BE2D-492A-B54C-23BFDD3E5852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeAssignment.Test", "TakeHomeAssignment.Test\TakeHomeAssignment.Test.csproj", "{58136BA8-7535-446D-A14B-064587C85D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF5456D-BE2D-492A-B54C-23BFDD3E5852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF5456D-BE2D-492A-B54C-23BFDD3E5852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF5456D-BE2D-492A-B54C-23BFDD3E5852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF5456D-BE2D-492A-B54C-23BFDD3E5852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58136BA8-7535-446D-A14B-064587C85D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58136BA8-7535-446D-A14B-064587C85D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58136BA8-7535-446D-A14B-064587C85D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58136BA8-7535-446D-A14B-064587C85D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
